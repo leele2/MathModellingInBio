@@ -2,7 +2,7 @@
 
 ![page0](Images/page0.png)
 ***
-![page1](mages/page1.png)
+![page1](Images/page1.png)
 ***
 ![page2](Images/page2.png)
 ***
